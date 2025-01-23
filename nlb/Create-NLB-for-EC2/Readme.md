@@ -28,3 +28,7 @@ The detailed steps required to complete this project are as follows:
   - Access the Load Balancer DNS name in a browser to confirm page serving from WebA or WebB.
   - Generate traffic to the instances using a command in AdminInstance: `while true; do curl <LOAD BALANCE DNS NAME>; done`.
   - Monitor the Load Balancer's performance under simulated traffic conditions. 
+
+
+## Lab Reference - 
+https://learn.acloud.guru/handson/a0c93cdb-127d-43e5-9026-aea0a8dc5c5d
